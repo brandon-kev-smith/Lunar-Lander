@@ -2,11 +2,11 @@
 
 ## Description
 
-This is a web based game of my version of the Atari game Lunar Lander from 1979.
+This is a web-based game of my version of the Atari game Lunar Lander from 1979.
 A random terrain is generated with each new game, and the Player begins with a
-set ammount of fuel to manueveur the ship.
+set amount of fuel to maneuver the ship.
 
-The goal of the game is to land the space ship in a designated safe area.
+The goal of the game is to land the spaceship in a designated safe area.
 There are two levels, level one has two safe zones with a larger surface area.
 The second level has only one safe zone with a smaller surface area.
 
@@ -21,7 +21,7 @@ To run the game clone the repo and launch index.html in whatever browser you wis
 
 ## Controls
 
-Controls are completly custumizable and will persist to the users browser.
+Controls are completly custumizable and will persist to the user’s browser.
 By Default the Controls will be set to:
 * Thrust        -  Arrow Up
 * Rotate Left   -  Arrow Left
@@ -34,6 +34,6 @@ Then press which key they wish to assign to that control.
 ## High Scores
 
 High scores are saved to the browser.
-In order to be added to the high scores list you must complete both level safely.
+In order to be added to the high scores list you must complete both levels safely.
 High scores are calculated based on the amount of fuel used in each of the levels.
 Only the top 5 high scores will persist.
